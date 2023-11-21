@@ -7,7 +7,7 @@ title = App Somchai
 package.name = somchai
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = com.somchai.io
+package.domain = com.somchai.app
 
 # (str) Source code where the main.py live
 source.dir = .
